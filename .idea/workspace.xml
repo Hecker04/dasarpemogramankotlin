@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a379440c-3377-49ac-a262-e0b8b644b1bf" name="Changes" comment="bolea">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/bolean.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/bolean.kt" afterDir="false" />
+    <list default="true" id="a379440c-3377-49ac-a262-e0b8b644b1bf" name="Changes" comment="strin">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/string template.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,23 +41,9 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.StringKt">
+  <component name="RunManager" selected="Kotlin.String_templateKt">
     <configuration name="BoleanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BoleanKt" />
-      <module name="dasarpemoggramankotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CharKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CharKt" />
-      <module name="dasarpemoggramankotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KonversiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KonversiKt" />
       <module name="dasarpemoggramankotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,13 +63,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="String_templateKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_templateKt" />
+      <module name="dasarpemoggramankotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TipedatabilbulKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TipedatabilbulKt" />
+      <module name="dasarpemoggramankotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.String_templateKt" />
+        <item itemvalue="Kotlin.TipedatabilbulKt" />
         <item itemvalue="Kotlin.StringKt" />
         <item itemvalue="Kotlin.BoleanKt" />
         <item itemvalue="Kotlin.Konversi_Eksplisit_pada_CharKt" />
-        <item itemvalue="Kotlin.CharKt" />
-        <item itemvalue="Kotlin.KonversiKt" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725346057265</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="strin">
+      <created>1725346533244</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1725346533244</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -226,6 +234,7 @@
     <MESSAGE value="char." />
     <MESSAGE value="konver" />
     <MESSAGE value="bolea" />
-    <option name="LAST_COMMIT_MESSAGE" value="bolea" />
+    <MESSAGE value="strin" />
+    <option name="LAST_COMMIT_MESSAGE" value="strin" />
   </component>
 </project>
