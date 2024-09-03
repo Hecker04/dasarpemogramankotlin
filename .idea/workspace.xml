@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a379440c-3377-49ac-a262-e0b8b644b1bf" name="Changes" comment="char.">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Konversi Eksplisit pada Char.kt" afterDir="false" />
+    <list default="true" id="a379440c-3377-49ac-a262-e0b8b644b1bf" name="Changes" comment="konver">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bolean.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,14 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Konversi_Eksplisit_pada_CharKt">
+  <component name="RunManager" selected="Kotlin.BoleanKt">
+    <configuration name="BoleanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BoleanKt" />
+      <module name="dasarpemoggramankotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CharKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CharKt" />
       <module name="dasarpemoggramankotlin" />
@@ -69,20 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnderscoreliteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UnderscoreliteralKt" />
-      <module name="dasarpemoggramankotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BoleanKt" />
         <item itemvalue="Kotlin.Konversi_Eksplisit_pada_CharKt" />
         <item itemvalue="Kotlin.CharKt" />
         <item itemvalue="Kotlin.KonversiKt" />
         <item itemvalue="Kotlin.RepresentasiKt" />
-        <item itemvalue="Kotlin.UnderscoreliteralKt" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725345730183</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="konver">
+      <created>1725345917587</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1725345917587</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -209,8 +216,8 @@
     <MESSAGE value="under" />
     <MESSAGE value="konversi" />
     <MESSAGE value="repre" />
-    <MESSAGE value="konver" />
     <MESSAGE value="char." />
-    <option name="LAST_COMMIT_MESSAGE" value="char." />
+    <MESSAGE value="konver" />
+    <option name="LAST_COMMIT_MESSAGE" value="konver" />
   </component>
 </project>
