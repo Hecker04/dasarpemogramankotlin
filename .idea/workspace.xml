@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a379440c-3377-49ac-a262-e0b8b644b1bf" name="Changes" comment="konver">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/char.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a379440c-3377-49ac-a262-e0b8b644b1bf" name="Changes" comment="char.">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Konversi Eksplisit pada Char.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.CharKt">
+  <component name="RunManager" selected="Kotlin.Konversi_Eksplisit_pada_CharKt">
     <configuration name="CharKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CharKt" />
       <module name="dasarpemoggramankotlin" />
@@ -49,15 +48,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstansliteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConstansliteralKt" />
+    <configuration name="KonversiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KonversiKt" />
       <module name="dasarpemoggramankotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KonversiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KonversiKt" />
+    <configuration name="Konversi_Eksplisit_pada_CharKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Konversi_Eksplisit_pada_CharKt" />
       <module name="dasarpemoggramankotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Konversi_Eksplisit_pada_CharKt" />
         <item itemvalue="Kotlin.CharKt" />
         <item itemvalue="Kotlin.KonversiKt" />
         <item itemvalue="Kotlin.RepresentasiKt" />
         <item itemvalue="Kotlin.UnderscoreliteralKt" />
-        <item itemvalue="Kotlin.ConstansliteralKt" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725345175178</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="char.">
+      <created>1725345730183</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1725345730183</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -204,6 +210,7 @@
     <MESSAGE value="konversi" />
     <MESSAGE value="repre" />
     <MESSAGE value="konver" />
-    <option name="LAST_COMMIT_MESSAGE" value="konver" />
+    <MESSAGE value="char." />
+    <option name="LAST_COMMIT_MESSAGE" value="char." />
   </component>
 </project>
