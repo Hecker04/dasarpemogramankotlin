@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a379440c-3377-49ac-a262-e0b8b644b1bf" name="Changes" comment="bilanga">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/constansliteral.kt" afterDir="false" />
+    <list default="true" id="a379440c-3377-49ac-a262-e0b8b644b1bf" name="Changes" comment="consta">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/underscoreliteral.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ConstansliteralKt">
+  <component name="RunManager" selected="Kotlin.UnderscoreliteralKt">
     <configuration name="BilangandecimalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BilangandecimalKt" />
       <module name="dasarpemoggramankotlin" />
@@ -62,6 +62,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UnderscoreliteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnderscoreliteralKt" />
+      <module name="dasarpemoggramankotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ValVaribleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ValVaribleKt" />
       <module name="dasarpemoggramankotlin" />
@@ -69,20 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarVariableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VarVariableKt" />
-      <module name="dasarpemoggramankotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.UnderscoreliteralKt" />
         <item itemvalue="Kotlin.ConstansliteralKt" />
         <item itemvalue="Kotlin.BilangandecimalKt" />
         <item itemvalue="Kotlin.TipedatabilbulKt" />
         <item itemvalue="Kotlin.ValVaribleKt" />
-        <item itemvalue="Kotlin.VarVariableKt" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725341175319</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="consta">
+      <created>1725341282341</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725341282341</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -170,6 +177,7 @@
     <MESSAGE value="valVariable" />
     <MESSAGE value="tipeda" />
     <MESSAGE value="bilanga" />
-    <option name="LAST_COMMIT_MESSAGE" value="bilanga" />
+    <MESSAGE value="consta" />
+    <option name="LAST_COMMIT_MESSAGE" value="consta" />
   </component>
 </project>
