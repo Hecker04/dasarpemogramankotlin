@@ -41,7 +41,7 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ValVaribleKt">
+  <component name="RunManager" selected="Kotlin.TipedatabilbulKt">
     <configuration name="LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LiteralKt" />
       <module name="dasarpemoggramankotlin" />
@@ -49,8 +49,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainappKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainappKt" />
+    <configuration name="TipedatabilbulKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TipedatabilbulKt" />
       <module name="dasarpemoggramankotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TipedatabilbulKt" />
         <item itemvalue="Kotlin.ValVaribleKt" />
         <item itemvalue="Kotlin.VarVariableKt" />
         <item itemvalue="Kotlin.VariableKt" />
         <item itemvalue="Kotlin.LiteralKt" />
-        <item itemvalue="Kotlin.MainappKt" />
       </list>
     </recent_temporary>
   </component>
