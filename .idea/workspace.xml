@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a379440c-3377-49ac-a262-e0b8b644b1bf" name="Changes" comment="strin">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/string template.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a379440c-3377-49ac-a262-e0b8b644b1bf" name="Changes" comment="string">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi aggota pada string.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.String_templateKt">
+  <component name="RunManager" selected="Kotlin.Fungsi_aggota_pada_stringKt">
     <configuration name="BoleanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BoleanKt" />
       <module name="dasarpemoggramankotlin" />
@@ -49,8 +48,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Konversi_Eksplisit_pada_CharKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Konversi_Eksplisit_pada_CharKt" />
+    <configuration name="Fungsi_aggota_pada_stringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fungsi_aggota_pada_stringKt" />
       <module name="dasarpemoggramankotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Fungsi_aggota_pada_stringKt" />
         <item itemvalue="Kotlin.String_templateKt" />
         <item itemvalue="Kotlin.TipedatabilbulKt" />
         <item itemvalue="Kotlin.StringKt" />
         <item itemvalue="Kotlin.BoleanKt" />
-        <item itemvalue="Kotlin.Konversi_Eksplisit_pada_CharKt" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725346533244</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="string">
+      <created>1725347444272</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1725347444272</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -235,6 +241,7 @@
     <MESSAGE value="konver" />
     <MESSAGE value="bolea" />
     <MESSAGE value="strin" />
-    <option name="LAST_COMMIT_MESSAGE" value="strin" />
+    <MESSAGE value="string" />
+    <option name="LAST_COMMIT_MESSAGE" value="string" />
   </component>
 </project>
