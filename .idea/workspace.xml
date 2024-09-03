@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a379440c-3377-49ac-a262-e0b8b644b1bf" name="Changes" comment="string">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi aggota pada string.kt" afterDir="false" />
+    <list default="true" id="a379440c-3377-49ac-a262-e0b8b644b1bf" name="Changes" comment="fungsi">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/penerapan string.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,16 +41,16 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Fungsi_aggota_pada_stringKt">
-    <configuration name="BoleanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BoleanKt" />
+  <component name="RunManager" selected="Kotlin.Penerapan_stringKt">
+    <configuration name="Fungsi_aggota_pada_stringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fungsi_aggota_pada_stringKt" />
       <module name="dasarpemoggramankotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fungsi_aggota_pada_stringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fungsi_aggota_pada_stringKt" />
+    <configuration name="Penerapan_stringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Penerapan_stringKt" />
       <module name="dasarpemoggramankotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Penerapan_stringKt" />
         <item itemvalue="Kotlin.Fungsi_aggota_pada_stringKt" />
         <item itemvalue="Kotlin.String_templateKt" />
         <item itemvalue="Kotlin.TipedatabilbulKt" />
         <item itemvalue="Kotlin.StringKt" />
-        <item itemvalue="Kotlin.BoleanKt" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725347444272</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="fungsi">
+      <created>1725347863111</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1725347863111</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -242,6 +250,7 @@
     <MESSAGE value="bolea" />
     <MESSAGE value="strin" />
     <MESSAGE value="string" />
-    <option name="LAST_COMMIT_MESSAGE" value="string" />
+    <MESSAGE value="fungsi" />
+    <option name="LAST_COMMIT_MESSAGE" value="fungsi" />
   </component>
 </project>
