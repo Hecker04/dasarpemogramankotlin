@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a379440c-3377-49ac-a262-e0b8b644b1bf" name="Changes" comment="pener">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Program Caesar Chiper.kt" afterDir="false" />
+    <list default="true" id="a379440c-3377-49ac-a262-e0b8b644b1bf" name="Changes" comment="progra">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Program Sandi Morse.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Program_Caesar_ChiperKt">
+  <component name="RunManager" selected="Kotlin.Program_Sandi_MorseKt">
     <configuration name="Fungsi_aggota_pada_stringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fungsi_aggota_pada_stringKt" />
       <module name="dasarpemoggramankotlin" />
@@ -63,6 +63,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Program_Sandi_MorseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program_Sandi_MorseKt" />
+      <module name="dasarpemoggramankotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="String_templateKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String_templateKt" />
       <module name="dasarpemoggramankotlin" />
@@ -70,20 +77,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TipedatabilbulKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TipedatabilbulKt" />
-      <module name="dasarpemoggramankotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Program_Sandi_MorseKt" />
         <item itemvalue="Kotlin.Program_Caesar_ChiperKt" />
         <item itemvalue="Kotlin.Penerapan_stringKt" />
         <item itemvalue="Kotlin.Fungsi_aggota_pada_stringKt" />
         <item itemvalue="Kotlin.String_templateKt" />
-        <item itemvalue="Kotlin.TipedatabilbulKt" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725348417703</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="progra">
+      <created>1725349028800</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1725349028800</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -259,6 +266,7 @@
     <MESSAGE value="string" />
     <MESSAGE value="fungsi" />
     <MESSAGE value="pener" />
-    <option name="LAST_COMMIT_MESSAGE" value="pener" />
+    <MESSAGE value="progra" />
+    <option name="LAST_COMMIT_MESSAGE" value="progra" />
   </component>
 </project>
