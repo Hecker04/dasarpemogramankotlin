@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a379440c-3377-49ac-a262-e0b8b644b1bf" name="Changes" comment="konver">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bolean.kt" afterDir="false" />
+    <list default="true" id="a379440c-3377-49ac-a262-e0b8b644b1bf" name="Changes" comment="bolea">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/bolean.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/bolean.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.BoleanKt">
+  <component name="RunManager" selected="Kotlin.StringKt">
     <configuration name="BoleanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BoleanKt" />
       <module name="dasarpemoggramankotlin" />
@@ -69,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepresentasiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RepresentasiKt" />
+    <configuration name="StringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringKt" />
       <module name="dasarpemoggramankotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.StringKt" />
         <item itemvalue="Kotlin.BoleanKt" />
         <item itemvalue="Kotlin.Konversi_Eksplisit_pada_CharKt" />
         <item itemvalue="Kotlin.CharKt" />
         <item itemvalue="Kotlin.KonversiKt" />
-        <item itemvalue="Kotlin.RepresentasiKt" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725345917587</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="bolea">
+      <created>1725346057265</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1725346057265</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -218,6 +225,7 @@
     <MESSAGE value="repre" />
     <MESSAGE value="char." />
     <MESSAGE value="konver" />
-    <option name="LAST_COMMIT_MESSAGE" value="konver" />
+    <MESSAGE value="bolea" />
+    <option name="LAST_COMMIT_MESSAGE" value="bolea" />
   </component>
 </project>
