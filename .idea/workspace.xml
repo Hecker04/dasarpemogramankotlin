@@ -41,7 +41,7 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Program_Sandi_MorseKt">
+  <component name="RunManager" selected="Kotlin.ReadlineKt">
     <configuration name="Fungsi_aggota_pada_stringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fungsi_aggota_pada_stringKt" />
       <module name="dasarpemoggramankotlin" />
@@ -70,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_templateKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String_templateKt" />
+    <configuration name="ReadlineKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReadlineKt" />
       <module name="dasarpemoggramankotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ReadlineKt" />
         <item itemvalue="Kotlin.Program_Sandi_MorseKt" />
         <item itemvalue="Kotlin.Program_Caesar_ChiperKt" />
         <item itemvalue="Kotlin.Penerapan_stringKt" />
         <item itemvalue="Kotlin.Fungsi_aggota_pada_stringKt" />
-        <item itemvalue="Kotlin.String_templateKt" />
       </list>
     </recent_temporary>
   </component>
