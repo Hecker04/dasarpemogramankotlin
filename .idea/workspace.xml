@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a379440c-3377-49ac-a262-e0b8b644b1bf" name="Changes" comment="comen">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/variable.kt" afterDir="false" />
+    <list default="true" id="a379440c-3377-49ac-a262-e0b8b644b1bf" name="Changes" comment="variable">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/varVariable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varvariable.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +42,7 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.VariableKt">
+  <component name="RunManager" selected="Kotlin.VarVariableKt">
     <configuration name="LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LiteralKt" />
       <module name="dasarpemoggramankotlin" />
@@ -62,6 +64,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VarVariableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VarVariableKt" />
+      <module name="dasarpemoggramankotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="VariableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="VariableKt" />
       <module name="dasarpemoggramankotlin" />
@@ -71,6 +80,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.VarVariableKt" />
         <item itemvalue="Kotlin.VariableKt" />
         <item itemvalue="Kotlin.LiteralKt" />
         <item itemvalue="Kotlin.MainappKt" />
@@ -115,13 +125,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725339523352</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="variable">
+      <created>1725339991893</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725339991893</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="stater project" />
     <MESSAGE value="add literal" />
     <MESSAGE value="comen" />
-    <option name="LAST_COMMIT_MESSAGE" value="comen" />
+    <MESSAGE value="variable" />
+    <option name="LAST_COMMIT_MESSAGE" value="variable" />
   </component>
 </project>
