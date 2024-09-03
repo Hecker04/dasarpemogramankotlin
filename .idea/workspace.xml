@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a379440c-3377-49ac-a262-e0b8b644b1bf" name="Changes" comment="varVariable">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/valVarible.kt" afterDir="false" />
+    <list default="true" id="a379440c-3377-49ac-a262-e0b8b644b1bf" name="Changes" comment="tipeda">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bilangandecimal.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,9 +41,9 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.TipedatabilbulKt">
-    <configuration name="LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LiteralKt" />
+  <component name="RunManager" selected="Kotlin.BilangandecimalKt">
+    <configuration name="BilangandecimalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BilangandecimalKt" />
       <module name="dasarpemoggramankotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BilangandecimalKt" />
         <item itemvalue="Kotlin.TipedatabilbulKt" />
         <item itemvalue="Kotlin.ValVaribleKt" />
         <item itemvalue="Kotlin.VarVariableKt" />
         <item itemvalue="Kotlin.VariableKt" />
-        <item itemvalue="Kotlin.LiteralKt" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +138,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725340434752</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="valVariable">
+      <created>1725340822040</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725340822040</updated>
+    </task>
+    <task id="LOCAL-00008" summary="tipeda">
+      <created>1725340980277</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725340980277</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -147,6 +161,8 @@
     <MESSAGE value="comen" />
     <MESSAGE value="variable" />
     <MESSAGE value="varVariable" />
-    <option name="LAST_COMMIT_MESSAGE" value="varVariable" />
+    <MESSAGE value="valVariable" />
+    <MESSAGE value="tipeda" />
+    <option name="LAST_COMMIT_MESSAGE" value="tipeda" />
   </component>
 </project>
