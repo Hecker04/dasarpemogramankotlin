@@ -41,14 +41,7 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ReadlineKt">
-    <configuration name="Fungsi_aggota_pada_stringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fungsi_aggota_pada_stringKt" />
-      <module name="dasarpemoggramankotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Readline2Kt">
     <configuration name="Penerapan_stringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Penerapan_stringKt" />
       <module name="dasarpemoggramankotlin" />
@@ -70,6 +63,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Readline2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Readline2Kt" />
+      <module name="dasarpemoggramankotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReadlineKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReadlineKt" />
       <module name="dasarpemoggramankotlin" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Readline2Kt" />
         <item itemvalue="Kotlin.ReadlineKt" />
         <item itemvalue="Kotlin.Program_Sandi_MorseKt" />
         <item itemvalue="Kotlin.Program_Caesar_ChiperKt" />
         <item itemvalue="Kotlin.Penerapan_stringKt" />
-        <item itemvalue="Kotlin.Fungsi_aggota_pada_stringKt" />
       </list>
     </recent_temporary>
   </component>
