@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a379440c-3377-49ac-a262-e0b8b644b1bf" name="Changes" comment="progra">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Program Sandi Morse.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a379440c-3377-49ac-a262-e0b8b644b1bf" name="Changes" comment="readl" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,9 +38,9 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Readline2Kt">
-    <configuration name="Penerapan_stringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Penerapan_stringKt" />
+  <component name="RunManager" selected="Kotlin.KalkulatorKt">
+    <configuration name="KalkulatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KalkulatorKt" />
       <module name="dasarpemoggramankotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.KalkulatorKt" />
         <item itemvalue="Kotlin.Readline2Kt" />
         <item itemvalue="Kotlin.ReadlineKt" />
         <item itemvalue="Kotlin.Program_Sandi_MorseKt" />
         <item itemvalue="Kotlin.Program_Caesar_ChiperKt" />
-        <item itemvalue="Kotlin.Penerapan_stringKt" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +240,28 @@
       <option name="project" value="LOCAL" />
       <updated>1725349028800</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="progr">
+      <created>1725349298421</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1725349298421</updated>
+    </task>
+    <task id="LOCAL-00023" summary="readl">
+      <created>1725349441151</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1725349441152</updated>
+    </task>
+    <task id="LOCAL-00024" summary="readl">
+      <created>1725349620270</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1725349620270</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -267,6 +285,8 @@
     <MESSAGE value="fungsi" />
     <MESSAGE value="pener" />
     <MESSAGE value="progra" />
-    <option name="LAST_COMMIT_MESSAGE" value="progra" />
+    <MESSAGE value="progr" />
+    <MESSAGE value="readl" />
+    <option name="LAST_COMMIT_MESSAGE" value="readl" />
   </component>
 </project>
